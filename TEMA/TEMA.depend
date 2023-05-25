@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684955226 source:d:\codeblocks proiecte\tema\main.c
+	"bib.h"
+
+1684954795 source:d:\codeblocks proiecte\tema\bib.c
+	"bib.h"
+
+1684954707 d:\codeblocks proiecte\tema\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
